@@ -3,4 +3,4 @@ This is a a demo project created to gain skills in working with Git.
 
 ---
 
-Makar Suslov
+Graf Makar 
